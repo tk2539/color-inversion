@@ -2,7 +2,7 @@
 
 ---
 
-##GoogleChromeの拡張機能です
+## GoogleChromeの拡張機能です
 
 ### 使い方
 
